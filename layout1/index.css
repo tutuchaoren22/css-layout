@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.layout {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    height: 100px;
+    background-color: aquamarine;
+
+}
+.content {
+    height: 500px;
+    background-color: orangered;
+
+}
+.left {
+    float: left;
+    width: 10%;
+    height: 100%;
+    background-color: yellow;
+
+}
+.center {
+    height: 100%;
+    width:80%;
+    display: inline-block;
+    background-color: blue;
+
+}
+.right {
+    float: right;
+    width: 10%;
+    height: 100%;
+    background-color: gray;
+
+
+}
+.footer {
+    height: 100px;
+    background-color: aqua;
+
+}

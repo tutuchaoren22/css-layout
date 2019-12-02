@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.content {
+    width:100%;
+    float: left;
+    height: 500px;
+    background-color: orangered;
+
+}
+.left {
+    float: left;
+    margin-left: -100%;
+    width: 100px;
+    height: 500px;
+    background-color: yellow;
+
+}
+.right {
+    float: left;
+    margin-left: -100px;
+    width: 100px;
+    height: 500px;
+    background-color: gray;
+}
+
+.main {
+    margin: 0 100px 0 100px;
+}
